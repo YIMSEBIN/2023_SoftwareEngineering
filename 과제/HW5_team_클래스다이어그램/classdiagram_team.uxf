@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>6</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>36</x>
+      <y>240</y>
+      <w>126</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>정산 참여자
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>126</x>
+      <y>336</y>
+      <w>126</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>모임
+--
+- 모임이름
+- 모임</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>246</x>
+      <y>240</y>
+      <w>126</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>결제자
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>156</x>
+      <y>258</y>
+      <w>102</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;150.0;10.0</additional_attributes>
+  </element>
+</diagram>
